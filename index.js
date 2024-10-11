@@ -1,5 +1,4 @@
-//Não ficou tão claro pra mim se eu deveria utilizar parseInt(gets()) para armazenar os dados como da outra atividade 
-//Deixei dessa maneira com dados estáticos
+//Não ficou tão claro pra mim se eu deveria utilizar gets() para armazenar os dados como da outra atividade, então deixei dessa maneira com dados estáticos
 
 const nome = "Estêvão";
 const xp = 10000;
